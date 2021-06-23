@@ -1,7 +1,12 @@
 # Auth
 
+## Appreciation
+
+Thank you @ThomasOliver545
+
 ## Infos
 
-- Api build with NestJS 8, because v8 has Support for the latest Socket.io Release v4
-- Angular used in v12 & also Angular Material
+- Backend built with NestJS 8
+- Frontend built with Angular used in v12 & also Angular Material
+- Docker compose v 3.8
 - Start Command `docker-compose up`
